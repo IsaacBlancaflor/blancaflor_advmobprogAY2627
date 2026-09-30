@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929641300990",
+    "project_id": "blancaflor-advmblprog",
+    "storage_bucket": "blancaflor-advmblprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929641300990:android:ae388c5bf973abbde3f6af",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1UkzLyqPLaWJRxw9wc1nkAYzOw1Gebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929641300990:android:95f9e4740aef3cf5e3f6af",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1UkzLyqPLaWJRxw9wc1nkAYzOw1Gebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
